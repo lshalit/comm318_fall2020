@@ -1,8 +1,11 @@
 ## COMM318: Stories from data: Introduction to programming for data journalism 
 
+### Annenberg School for Communication 
 
-Tuesday & Thursdays noon to 1:30pm
+Fall 2020: M/W 5:00-6:30pm (Zoom)
 
-ASC108
+Professor: Dr. Matt O'Donnell Email: mbod@asc.upenn.edu
+
+
 
  
