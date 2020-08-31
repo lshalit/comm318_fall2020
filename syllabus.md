@@ -115,31 +115,33 @@ A central goal of this class is to help students begin to develop programming sk
 * Mon 09/14/20 - Lists, indexing
 	* Basics of Python Part 2
 	  * Lists, indexing and slicing
-		* Loops and conditions
+	  * Loops and conditions
 	* _Assignment 1 available in JupyterHub_
-* Wed 09/16/20 - Lab session - git & github repos
+* Wed 09/16/20 - Lab session
+
 * Fri 09/18/20 - __Assignment 1 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 ### Week 4 - Working with _Open Data_ & Python basics (3)
 * Mon 09/21/20 - data initiatives & repositories e.g. data.gov
-	* Basics of Python Part 2
-		* Lists, indexing and slicing
-		* Loops and conditions
+	* Basics of Python Part 3
+		* Dictionaries
+		* User functions
 	* _Assignment 2 available in JupyterHub_
 * Wed 09/23/20 - Lab session - git & github repos
 * Fri 09/25/20 - __Assignment 2 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 ### Week 5 - Understanding basic data structures as the components of stories
-* Mon  09/28/20 - Tabular data - rows, columns. Looking for stories.
+* Mon 09/28/20 - Tabular data - rows, columns. Looking for stories.
 	* _Assignment 3 available in JupyterHub_
 * Wed 09/30/20 - Lab session - Working with Pandas #1
 * Fri 10/02/20 - __Assignment 3 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 
 ### Week 6 - Working with data tables - Finding story dimensions in numbers.
-* Mon  10/05/20 - Selecting and transforming columns, subsetting & grouping. Data is messy - cleaning it up!
+* Mon 10/05/20 - Selecting and transforming columns, subsetting & grouping. Data is messy - cleaning it up!
+	* _Assignment 4 available in JupyterHub_
 * Wed 10/07/20 - Lab session - Working with Pandas #2
-* Fri 10/09/20 - __Assignment 5 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+* Fri 10/09/20 - __Assignment 4 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 
 ### Week 7 - Data visualization (Part 1) - Supporting stories with plots
@@ -154,15 +156,15 @@ A central goal of this class is to help students begin to develop programming sk
 * Wed 10/14/20 - Lab session
 
 ### Week 8 - What is data journalism and what can it do?
-* Mon  10/19/20 - Guest lecture: Jennifer Henrichsen
+* Mon  10/19/20 - 
 * Wed 10/21/20 - Lab Session
 
 ### Week 9 -  Data art (Part 1) - data stories beyond the newspaper
-* Mon  10/26/20 - Guest lecture: Roopa Vasudevan
-* Wed 10/28/20 - Lab session - data art (processing) - part 1
+* Mon  10/26/20 -
+* Wed 10/28/20 - Lab session
 
 ### Week 10 - Data art (Part 2)
-* Mon  11/02/20 - Lab session - data art (processing) - part 2
+* Mon  11/02/20 - Lab session - d
 * Wed 11/04/20 - Project planning and disucssion
 
 ### Week 11 - Finding data in the _wild_ using web scraping
