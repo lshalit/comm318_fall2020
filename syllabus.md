@@ -14,8 +14,9 @@
 * Initially we have scheduled:
 
 	1. Thursdays 4-5.30pm EST when Darin will be available
-		 * To schedule a 15 minute slot go to
-		 		https://www.wejoinin.com/sheets/axytb
+		 * To schedule a 15 minute slot go to:
+
+		 https://www.wejoinin.com/sheets/axytb
 
 	2. Fridays 1-2pm EST Friday will be an open coding help session
 
@@ -55,38 +56,35 @@ in which students will work through programming exercises using Jupyter notebook
 
 1. **Attend weekly lab sessions and complete the assigned readings and exercises (40%)**
   * Wednesday class sessions will usually be programming labs. We will be using Jupyter notebooks to learn Python, which are part of a web-based interactive programming environment. You must have a github account to access the server. If you do not have an account go to https://github.com/join and set one up. Assignments will be completed in this environment and submitted to the instructor. Details of using this system for assignments will be covered in the first lab session.
-	* Assignments will usually be due at 11.59 p.m. (EST) on the Friday following lab session (but this may vary). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is _very_ important to keep up.
+
+  * Assignments will usually be due at 11.59 p.m. (EST) on the Friday following lab session (but this may vary). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is _very_ important to keep up.
+
 
 2. **Complete a project that uses the techniques and theory covered in class to carry out a data analysis of a specific research question agreed upon with the instructor (60%)**
     * The goal of this project is to create:
         1. an engaging data-driven online article
-        2. a data and analysis repository on `github.com`  
-
-      similar those produced by data journalists (e.g. the `LA Times Data Desk`), for example:
+        2. a data and analysis repository on `github.com` similar those produced by data journalists (e.g. the `LA Times Data Desk`), for example:
       * github repo: https://github.com/datadesk/notebooks
       * article: https://www.latimes.com/local/lanow/la-me-ln-homeless-housing-hhh-20190320-story.html
 
+	* The steps in the project are:
+		1. Decide upon a tractable research question that involves analysis of available data sources (e.g. data.gov or other easily available datasource)
 
-    * The steps in the project are:
+		2. Identify, retrieve and prepare relevant data
 
-			1. Decide upon a tractable research question that involves analysis of available data sources (e.g. data.gov or other easily available datasource)
+		3. Explore, describe and analyze the dataset
 
-			2. Identify, retrieve and prepare relevant data
+		4. Visualize data to help discover patterns
 
-			3. Explore, describe and analyze the dataset
+		5. Interpret findings
 
-			4. Visualize data to help discover patterns
+		6. Setup a github repository to make your data and analysis publicly available
 
-			5. Interpret findings
-
-			6. Setup a github repository to make your data and analysis publicly available
-
-			7. Tell your data story
+		7. Tell your data story
 
 			 _You can be creative to how you decide to present your data story. You could write a web-based article, a blog post, a white paper or research report or you create a video, etc. to communicate the stories discovered in your data._
 
-
-       These steps will be scheduled throughout the course allowing for the instructor to help you find a manageable problem, acquire the necessary data and be able to carry out the appropriate computational analysis.
+  * These steps will be scheduled throughout the course allowing for the instructor to help you find a manageable problem, acquire the necessary data and be able to carry out the appropriate computational analysis.
 
      * More details of the kinds of projects that would be appropriate and manageable will be discussed during the first few weeks of class.
 
