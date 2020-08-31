@@ -84,7 +84,7 @@ in which students will work through programming exercises using Jupyter notebook
 
 	 * These steps will be scheduled throughout the course allowing for the instructor to help you find a manageable problem, acquire the necessary data and be able to carry out the appropriate computational analysis.
 
-       * More details of the kinds of projects that would be appropriate and manageable will be discussed during the first few weeks of class.
+         * More details of the kinds of projects that would be appropriate and manageable will be discussed during the first few weeks of class.
 
 
 
