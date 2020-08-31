@@ -69,18 +69,12 @@ in which students will work through programming exercises using Jupyter notebook
     * The steps in the project are:
 
          1. Decide upon a tractable research question that involves analysis of available data sources (e.g. data.gov or other easily available datasource)
-
          2. Identify, retrieve and prepare relevant data
-
          3. Explore, describe and analyze the dataset
-
          4. Visualize data to help discover patterns
-
 				 5. Interpret findings
-
          6. Setup a github repository to make your data and analysis publicly
          available
-
          7. Tell your data story
 		        * _You can be creative to how you decide to
          present your data story. You could write a web-based article, a blog
