@@ -82,7 +82,8 @@ in which students will work through programming exercises using Jupyter notebook
 			 6. Setup a github repository to make your data and analysis publicly available
 
 			 7. Tell your data story
-					_You can be creative to how you decide to present your data story. You could write a web-based article, a blog post, a white paper or research report or you create a video, etc. to communicate the stories discovered in your data._
+
+			 _You can be creative to how you decide to present your data story. You could write a web-based article, a blog post, a white paper or research report or you create a video, etc. to communicate the stories discovered in your data._
 
 
        These steps will be scheduled throughout the course allowing for the instructor to help you find a manageable problem, acquire the necessary data and be able to carry out the appropriate computational analysis.
