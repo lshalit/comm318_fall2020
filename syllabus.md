@@ -97,7 +97,7 @@ in which students will work through programming exercises using Jupyter notebook
 
 ## Note about learning programming
 
-A central goal of this class is to help students begin to develop programming skills that they can use to approach questions of interest using the various datasets and data sources available in the era of 'big data'. But like learning any new skill, such as a new language, it takes time and can be frustrating at first. This course does not require students to have any programming background. Realistically it is not possible to become a fully proficient programmer in just one semester. However, the lab sessions and assignments are focused on helping you begin this process and to become comfortable with reading, understanding and modifying Python code examples that you can find on the web etc.
+A central goal of this class is to help students begin to develop programming skills that they can use to approach questions of interest using the various open datasets and data sources available. But like learning any new skill, such as a new language, it takes time and can be frustrating at first. This course does not require students to have any programming background. Realistically it is not possible to become a fully proficient programmer in just one semester. However, the lab sessions and assignments are focused on helping you begin this process and to become comfortable with reading, understanding and modifying Python code examples that you can find on the web etc.
 
 
 
@@ -109,33 +109,37 @@ A central goal of this class is to help students begin to develop programming sk
 * Wed 09/02/20 - **Course overview** + JupyterHub setup
 
 ### Week 2 - Python basics (1) + stories in simple data
-* Mon 09/08/20 - Introduction to notebooks, Markdown & Python
+* Mon 09/08/20 - NO CLASS (Labor Day)
+
+* Wed 09/09/20 Introduction to notebooks, Markdown & Python
 	* Basics of Python Part 1
 		* Objects, pointers & some built in functions
-		* Lists & indexing
+		* Introducing lists & indexing
 	* Finding stories in simple data.
-	* _Assignment 1 available in JupyterHub_
-* Wed 09/09/20 - Lab session - Introduction to notebooks, Markdown & Python
-* Fri 09/11/20 - __Assignment 1 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 ### Week 3 - Python basics (2)
 * Mon 09/14/20 - Lists, indexing
 	* Basics of Python Part 2
-	* _Assignment 2 available in JupyterHub_
+	  * Lists, indexing and slicing
+		* Loops and conditions
+	* _Assignment 1 available in JupyterHub_
 * Wed 09/16/20 - Lab session - git & github repos
-* Fri 09/18/20 - __Assignment 2 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+* Fri 09/18/20 - __Assignment 1 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 ### Week 4 - Working with _Open Data_ & Python basics (3)
 * Mon 09/21/20 - data initiatives & repositories e.g. data.gov
-	* _Assignment 3 available in JupyterHub_
+	* Basics of Python Part 2
+		* Lists, indexing and slicing
+		* Loops and conditions
+	* _Assignment 2 available in JupyterHub_
 * Wed 09/23/20 - Lab session - git & github repos
-* Fri 09/25/20 - __Assignment 3 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+* Fri 09/25/20 - __Assignment 2 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 ### Week 5 - Understanding basic data structures as the components of stories
 * Mon  09/28/20 - Tabular data - rows, columns. Looking for stories.
-	* _Assignment 4 available in JupyterHub_
+	* _Assignment 3 available in JupyterHub_
 * Wed 09/30/20 - Lab session - Working with Pandas #1
-* Fri 10/02/20 - __Assignment 4 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+* Fri 10/02/20 - __Assignment 3 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 
 ### Week 6 - Working with data tables - Finding story dimensions in numbers.
