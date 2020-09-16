@@ -118,6 +118,7 @@ A central goal of this class is to help students begin to develop programming sk
 	  * Loops and conditions
 	* _Assignment 1 available in JupyterHub_
 * Wed 09/16/20 - Lab session
+	* Working with lists and using loops and conditions
 
 * Fri 09/18/20 - __Assignment 1 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
@@ -137,7 +138,7 @@ A central goal of this class is to help students begin to develop programming sk
 * Fri 10/02/20 - __Assignment 3 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 
-### Week 6 - Working with data tables - Finding story dimensions in numbers.
+### Week 6 - Working with data tables (Part 1) - Finding story dimensions in numbers.
 * Mon 10/05/20 - Selecting and transforming columns, subsetting & grouping. Data is messy - cleaning it up!
 	* _Assignment 4 available in JupyterHub_
 * Wed 10/07/20 - Lab session - Working with Pandas #2
@@ -146,30 +147,33 @@ A central goal of this class is to help students begin to develop programming sk
 
 ### Week 7 - Data visualization (Part 1) - Supporting stories with plots
 * Mon  10/12/20 - Aggregating & summarizing. Creating simple plots. Thinking about good visualizations.
+  * _Assignment 5 available in JupyterHub_
 * Wed 10/14/20 - Lab session
-* Fri 10/16/20 - __Assignment 6 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+* Fri 10/16/20 - __Assignment 5 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
-
-
-### Week 7 - Data visualization (Part 2)
-* Mon  10/12/20 - Using Python visualization libraries. Principles of good infomation visualization.
-* Wed 10/14/20 - Lab session
-
-### Week 8 - What is data journalism and what can it do?
-* Mon  10/19/20 - 
+### Week 8 - Working with data tables (Part 2) - Summarizing and comparing data dimensions
+* Mon  10/19/20 - Working with filters and grouping
+  * _Assignment 6 available in JupyterHub_
 * Wed 10/21/20 - Lab Session
+* Fri 10/23/20 - __Assignment 6 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
-### Week 9 -  Data art (Part 1) - data stories beyond the newspaper
+### Week 9 -  Data visualization (Part 2) - Seeing trends and plot lines in data
 * Mon  10/26/20 -
+  * _Assignment 7 available in JupyterHub_
 * Wed 10/28/20 - Lab session
+* Fri 10/30/20 - __Assignment 7 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
-### Week 10 - Data art (Part 2)
-* Mon  11/02/20 - Lab session - d
-* Wed 11/04/20 - Project planning and disucssion
 
-### Week 11 - Finding data in the _wild_ using web scraping
-* Mon  11/09/20 -  Web scraping concepts, HTML + CSS
-* Wed 11/11/20 - Lab session - using `requests` + `BeautifulSoup`
+### Week 10 - Finding data in the _wild_ using web scraping
+* Mon  11/02/20 - Web scraping concepts, HTML + CSS
+  * _Assignment 8 available in JupyterHub_
+* Wed 11/04/20 - Lab session - using `requests` + `BeautifulSoup`
+* Fri 11/06/20 - __Assignment 8 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+
+
+### Week 11 - What is data journalism and what can it do?
+* Mon  11/09/20 - Telling the news from data
+* Wed 11/11/20 - Project planning and discussion
 
 
 ### Week 12 - Putting data on the map
