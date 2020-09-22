@@ -128,11 +128,12 @@ A central goal of this class is to help students begin to develop programming sk
 		* Dictionaries
 		* User functions
 	* _Assignment 2 available in JupyterHub_
-* Wed 09/23/20 - Lab session - git & github repos
+* Wed 09/23/20 - Lab session - Reviewing Python basics
 * Fri 09/25/20 - __Assignment 2 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 ### Week 5 - Understanding basic data structures as the components of stories
 * Mon 09/28/20 - Tabular data - rows, columns. Looking for stories.
+  * Working with data in tables using Pandas (Part 1)
 	* _Assignment 3 available in JupyterHub_
 * Wed 09/30/20 - Lab session - Working with Pandas #1
 * Fri 10/02/20 - __Assignment 3 DUE - 11.59pm EST__ (Submit through Jupyterhub)
@@ -140,8 +141,9 @@ A central goal of this class is to help students begin to develop programming sk
 
 ### Week 6 - Working with data tables (Part 1) - Finding story dimensions in numbers.
 * Mon 10/05/20 - Selecting and transforming columns, subsetting & grouping. Data is messy - cleaning it up!
+  * Working with data in tables using Pandas (Part 2)
 	* _Assignment 4 available in JupyterHub_
-* Wed 10/07/20 - Lab session - Working with Pandas #2
+* Wed 10/07/20 - Lab session - Working with Pandas #2 & git & github repos
 * Fri 10/09/20 - __Assignment 4 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 
