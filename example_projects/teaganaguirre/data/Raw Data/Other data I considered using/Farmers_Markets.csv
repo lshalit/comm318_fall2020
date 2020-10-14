@@ -1,0 +1,51 @@
+﻿X,Y,OBJECTID,NEIGHBORHOOD,NAME,ADDRESS,ADDRESS_NOTES,ZIP,DAY,TIME,MONTHS,ACCEPT_SNAP_ACCESS,ACCEPT_FMNP,ACCEPT_PHILLY_FOOD_BUCKS_,MAJOR_BUS_SUBWAY_ROUTES
+-75.121558481180102,39.978430930786431,1,Bridesburg/Kensington/Port Richmond,Greensgrow Farm Stand,2501 E. Cumberland Ave,,19125,Thurs & Sat,"Thurs: 3-7pm, Sat: 10am-2pm ",May - September,Y,Y,Y,"25, 39, 43, 89"
+-75.133925169270327,39.981778643699194,2,Bridesburg/Kensington/Port Richmond,Norris Square Neighborhood Project,Diamond St and N. Howard St,,19122,Thurs,1pm - 3pm,May - October,Y,Y,Y,"3, 39, 89"
+-75.170670280269746,39.950140932642405,3,Center City,Rittenhouse,18th and Walnut St,,19103,Tues & Sat,"Tues 10am-2pm, Sat 9am-3pm (may to Nov); 10am - 2pm (Dec to Apr)","Tues- June 4th - November 26th; Sat- Year round: 9am - 3pm (May - end of November); 10am - 2pm (December - end of April)",,Y,,"9, 17"
+-75.173985973351719,39.967323225718395,4,Center City,Fairmount,22nd St. and Fairmount Ave.,,19130,Thurs,3-7pm,June 6th- November 27th,Y,Y,Y,"7, 32, 33, 48, PHLASH"
+-75.164049080473703,39.969819743816046,5,Center City,Francisville Artisan and Farmers Market,1628-32 Ridge Ave,,19130,Sat,10am - 2pm,TBD,,,,
+-75.157064220677057,39.950015995850606,6,Center City,Jefferson,10th and Chestnut St,,19107,Thurs,11am-3pm,mid-April - November 21st,Y ,Y,Y ,"MFL (8th or 11th st stop), 47"
+-75.179324236705156,39.947340555303221,7,Center City,Fitler Square Park,23rd and Pine St,,19103,Sat,9am-2pm,Open year round,Y,Y,Y,"7, 12, 40"
+-75.145451981264657,39.942169388009326,8,Center City,Headhouse,2nd and Lombard St,,19147,Sun,10am-2pm,Open year round,Y,Y,Y,"12, 40, 57"
+-75.144520892106669,39.950641140887811,9,Center city,Christ Church,"On Church St, between 2nd and 3rd Sts.",,19106,Wed,2-7pm,May 15 - October,,,,"48, 57"
+-75.166770659043067,40.034734236978053,10,Germantown/ Chestnut Hill,Germantown Kitchen Garden,215 E. Penn St.,,19144,Sat,9am-1pm,May  - October,Y,Y,Y,23
+-75.172712833639963,40.034374881914907,11,Germantown/ Chestnut Hill,Germantown & Schoolhouse,Germantown Ave and E. Schoolhouse Lane,In front of Market Square Park,19144,Thurs,3-7pm,June 13th - October 31st,Y,Y,Y,
+-75.191630843090536,40.007962151877656,12,Germantown/ Chestnut Hill,East Falls,4100 Ridge Ave,In parking lot under Route 1,19129,Sat,10am-2pm,May - November  ,Y,Y,Y,61
+-75.19674330598248,40.067374388787357,13,Germantown/ Chestnut Hill,Chestnut Hill Farmers’ Market,Winston Rd and Germantown Ave.,,19118,Sat,"9am – 1pm; 10am - 12pm","Open year round: 9am - 1pm (May - end of November); 10am - 12pm (Dec-April)",,Y,,"23, 77, L, Chestnut Hill Line, Chestnut Hill West Line"
+-75.142439097819704,39.965342932219073,14,Lower North ,Liberty Lands Park,913 N. 3rd Street,,19123,Sat,10am-2pm,May 18th - October 26th,,,,
+-75.156901605469756,39.978524797921246,15,North,Cecil B. Moore,Cecil B. Moore Ave between Broad & 13th St,,19122,Thurs,2-6pm,June 6th – November 21st,Y,Y,Y,"4, 16, BSS"
+-75.147185756969378,40.016618689548125,16,North,Hunting Park,W. Hunting Park Ave. and Old York Rd,,19140,Sat,10am-2pm,May 25th - November 23rd,Y,Y,Y,"BSS (Hunting Park stop), 4,23"
+-75.143760427449251,40.038056000188185,17,North,Park and Tabor,N. Park Ave. and W. Tabor Rd,Near Einstein Medical Center,19141,Tues,2-6pm,May 21st - November 26th,Y,Y,Y,"18, 26, BSS"
+-75.138353938835522,39.991860933546725,18,North,4th and Lehigh,4th St & Lehigh Ave.,,19133,Tues,12-4pm,June 18th - Sept 10th,Y,Y,Y,"47, 54"
+-75.186373990989182,39.991786243518582,19,North,33rd & Dauphin,33rd & Dauphin St,,19121,Wed,2-6pm,June 5th -November 13th,Y,Y,Y,"7, 32, 39, 54, 61"
+-75.177643889727889,40.005576547314533,20,North,SHARE Nice Roots Farm,2901 W. Hunting Park Ave.,,19129,Tues & Thurs,2-4pm,May - November,Y,Y,Y,R
+-75.134335695997379,39.975002239797639,21,North,North Front Street,North Front Street and Cecil B Moore Avenue,,19122,Sun,10am-2pm,June 2nd- October 27th,Y,Y,,
+-75.172281941288816,40.004096368056842,22,North,26th and Allegheny,26th St and Allegheny Ave.,,19129,Wed,12-4pm,June 19th - September 11th,Y,Y,Y,"48, 60"
+-75.076843704025947,40.023267064582129,23,Northeast,Frankford Transportation Center ,Frankford and Bustleton Ave.,,19124,Tues,2-6pm,June 11th - October 29th ,Y,Y,Y,MFL
+-75.076240037275312,40.040694677866966,24,Northeast,Caster & Hellerman (Oxford Circle),Castor Ave & Hellerman St.,,19149,Wed,12-4pm,June 5th - November 6th,Y,Y,Y,"19, 24, 67"
+-75.021860604886101,40.100118145709601,25,Northeast,Kleinlife,Red Lion Rd & Jamison Ave,,19116,Tues,12-4pm,May -Nov ,Y,Y,Y,
+-75.219571105010786,40.049019099516933,26,Northwest ,Henry Got Crops,7095 Henry Ave,At Saul High School,19128,"Tues, Fri",12-7pm,May - November ,Y,Y,Y,27
+-75.195915352617945,40.046386615997882,27,Northwest ,Mt. Airy,Carpenter Lane and Greene St.,,19119,Thurs,2-6 pm,June 20th - Aug 22nd,,Y,,H
+-75.168537037231133,40.031977105096232,28,Northwest,Grumblethorpe House,5267 Germantown Ave.,,19144,Sat,9:30am-1:30pm,June - Aug,Y,Y,,23
+-75.153516000358323,40.064295045190669,29,Olney/Oak Lane,West Oak Lane,Ogontz Ave and Walnut Lane,,19138,Tues,2-6pm,July 9th - October 29th ,Y,Y,Y,"6, XH"
+-75.140239330983249,39.952740136491926,30,Penns Landing,The Food Trust's Market at Cherry Street Pier,121 N. Christopher Columbus Blvd,,19106,Saturdays ,10 - 2pm,July 13th - Novemeber 16th,Y,Y,Y,
+-75.221295887563301,40.037528144480859,31,Roxborough/ Manayunk,Gorgas Park,Ridge Ave and Acorn St.,,19128,Fri,3-7pm,May 24th - November 22nd,Y,Y,Y ,9
+-75.220832236680735,40.025987468258052,32,Roxborough/ Manayunk,Pretzel Park,4300 Silverwood St.,,19127,Sat,10am-2pm,May – October ,,,,"27, 61"
+-75.157435428591143,39.918970740304843,33,South,Novick Family Urban Farm Stand,6th & Ritner St,Mifflin Park,19148,Wed,2-6pm,May - Sept,Y,Y,,
+-75.181422071175348,39.932170940120962,34,South,22nd & Tasker,22nd and Tasker St,,19145,Wed,2-6pm,July 10th-  Oct 30th,Y,Y,Y,
+-75.168690950674076,39.929265433604179,35,South,Broad and Morris,Broad and Morris Street,,19145,Tues,2-6pm,June 11th - September 17th,Y,Y,Y,
+-75.163092939545024,39.929801869547973,36,South,Fountain,11th and Tasker St,On E. Passyunk Ave,19147,Wed,3-7pm,May 15 - November 27th,,Y,,"23, 29"
+-75.151162366162382,39.926971311433192,37,South,Dickinson Square,East Moyamensing Ave and Morris St,,19148,Sun,10am-2pm,May 19- November 24,Y,Y,Y,"2,29,47,57"
+-75.216076325077879,39.932751623411249,38,Southwest,Sankofa Community Farm at Bartram’s Garden,54th & Lindbergh Blvd,At the entrance to Bartram's Garden,19143,Thurs,3:30-6:30pm,June-November,Y ,Y,Y,36 trolley
+-75.228536059140353,39.935741819392597,39,Southwest,58th & Chester,58th St and Chester Ave.,,19143,Wed,2-6pm,July 10th -October 30th,Y,Y,Y,"13 trolley, G"
+-75.224593034506668,39.964905106540712,40,West ,52nd & Haverford,52nd St and Haverford Ave.,,19139,Wed,12-4pm,June 5th – October 30th,Y,Y,Y,"30, 52"
+-75.209261948741783,39.949550820199022,41,West ,Clark Park,43rd St. and Baltimore Ave.,,19104,Thurs & Sat,"Thurs 3-7pm, Sat 10am-2pm","Thurs open June 6th – November 27th, Sat open year round",Y,Y,Y,"13, 30, 34"
+-75.226330951429404,39.947784250872104,42,West ,Greensgrow West,5123 Baltimore Ave.,,19143,Sun,12pm- 4pm,Mid-June- September,Y,,Y,
+-75.254002440693327,39.988313963033484,43,West ,Overbrook,Lancaster & City Avenue,At the Overbrook Presbyterian Church,19151,Sat,9am-1pm,May 25th – November 23rd,Y,Y,Y,"65, 105, G, R5 Paoli-Thorndale Line"
+-75.216679227596472,39.997361115343999,44,West,Heritage Farm ,4300 Monument Rd.,,19131,Thurs,3:30-5:30pm,May - September,Y,Y,,"38, 40"
+-75.194789105576035,39.953151326139604,45,West ,University Square,36th and Walnut St,,19104,Wed,10am-5pm (sunset),January - middle of November ,,Y,,21
+-75.224515413324895,39.958387658277154,46,West,W. Philly YMCA Market,5120 Chestnut St,At the West Philly YMCA,19139,1st & 3rd Fri,10am-2pm,June - September,Y,Y,Y,
+-75.226897883689787,39.9693858149367,47,West,Neighborhood Foods Farm,608 N. 53rd St,Near Neighborhood Foods Farm,19131,Wed & Sat,"Wed: 2pm-6pm, Sat: 10am-2pm","Wednesdays: June - August, Saturdays: May – October ",Y,Y,Y,52
+-75.213389004671967,39.958559689373153,48,West,Walnut Hill,4610 Market St.,,19139,Thurs,4-7pm,June- November,Y,Y,Y,"MFL (46th st stop), 30, 31, 64"
+-75.233787439340134,39.968001893462713,49,West,Shepard Rec Market,5700 Haverford Ave,,19131,Last Tues of the month,12pm-3pm,June - October,Y,Y,Y,
+-75.218559169775631,39.966137386124061,50,West,Mill Creek Farm,4901 Brown St,Between 49th and 50th Streets,19139,Wed & Sat,"Wed 1-5pm; Sat 11am-2pm",June - Thanksgiving,Y,Y,,"30, 52, 64"
