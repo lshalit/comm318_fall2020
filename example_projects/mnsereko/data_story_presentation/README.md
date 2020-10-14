@@ -3,7 +3,7 @@
 * This folder should contain the files that contain the output of all your data analysis. You can choose how you want to present your data story.
 
 
-* [VIEW DATA STORY](Final Article_Analyzing the 2016 WTA Tennis Season.ipynb)
+#### [VIEW DATA STORY](./Final Article_Analyzing the 2016 WTA Tennis Season.ipynb)
 
 
 
