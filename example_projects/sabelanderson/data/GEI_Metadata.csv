@@ -1,0 +1,175 @@
+﻿Domain,Sub-domain,Indicator and reference population,Description,Source,2005,2010,2012,2015,2017
+Work,Participation,"Full-time equivalent employment rate (%, 15+ population)","The full-time equivalent (FTE) employment rate is a unit to measure employed persons in a way that makes them comparable even though they may work a different number of hours per week. The unit is obtained by comparing an employee’s average number of hours worked to the average number of hours worked by a full-time worker. A full-time worker is therefore counted as one FTE, while a part-time worker gets a score in proportion to the hours she or he works. For example, a part-time worker employed for 20 hours a week where full-time work consists of 40 hours, is counted as 0.5 FTE.","Eurostat, EU LFS
+Eurostat calculations according to EIGE's request  (2005-2015). EIGE's calculations 2017","2005
+EU-28: Non-weighted average",2010,2012,2015,2017
+Work,Participation,"Duration of working life (years, 15+ population)",The duration of working life indicator (DWL) measures the number of years a person aged 15 is expected to be active in the labour market throughout his/her life. This indicator is calculated with probabilistic model combining demographic data (Life tables available from Eurostat to calculate the survival functions) and labour market data (Labour Force Survey activity rates by single age group). Exact calculation methodology can be requested from Eurostat.,"Eurostat, EU LFS 
+Duration of working life - annual data [lfsi_dwl_a]",2005,2010,2012,2015,2017
+Work,Segregation and quality of work,"Employed people in Education, Human Health and Social Work activities (%, 15+ employed)","Percentage of people employed in the following economic activities out of total employed (based on NACE Rev 2) are included: P. Education + Q. Human health and social work, as percentage from TOTAL activities (All NACE activities).","Eurostat, EU LFS
+Employment by sex, age and economic activity (from 2008 onwards, NACE Rev. 2) – 1,000 [lfsa_egan2]
+Employment by sex, age and economic activity (1983-2008, NACE Rev. 1.1) (1,000) [lfsa_egana]",2005,2010,2012,2015,2017
+Work,Segregation and quality of work,"Ability to take an hour or two off during working hours to take care of personal or family matters (%, 15+ workers)","Percentage of people able to take an hour or two off during working hours to take care of personal or family matters (%, 15+ workers)","Eurofound, EWCS
+EIGE's calculation with microdata",2015,2015,2015,2015,2015
+Work,Segregation and quality of work,"Career Prospects Index (points, 0-100)","The Prospects Index is one of job quality indexes developed by the Eurofound. It combines the indicators of employment status (self-employed or employee), type of contract, the prospects for career advancement as perceived by the worker, perceived likelihood of losing one’s job and experience of downsizing in the organisation. It is measured at the scale of 0-100 where the higher the score, the higher the job quality. Exact methodology can be requested from Eurofound.","Eurofound, EWCS 
+Calculated by Eurofound",2015,2015,2015,2015,2015
+Money,Financial resources,"Mean monthly earnings (PPS, working population)","Mean monthly earnings in PPS (Purchasing Power Standard), in the sectors of Industry, construction and services (except public administration, defence, compulsory social security) (NACE_R2: B-S_X_O, total age group, working in companies 10 employees or more)","Eurostat, SES
+Mean monthly earnings by economic activity, sex, age [earn_ses06_20]
+Mean monthly earnings by sex, age and economic activity [earn_ses10_20]
+Mean monthly earnings by sex, age and economic activity [earn_ses14_20]","2006
+EU-28: EU-27 used
+HR:2010",2010,2010,"2014
+EL and HR: 2010",2014
+Money,Financial resources,"Mean equivalised net income (PPS, 16+ population)","Equivalised disposable income in PPS (Purchasing Power Standard), is the total income of a household, after tax and other deductions, that is available for spending or saving, divided by the number of household members converted into equalised adults; household members are equalised or made equivalent by weighting each according to their age, using the so-called modified OECD equivalence scale.","Eurostat, EU SILC
+Mean and median income by age and sex [ilc_di03]","2005
+EU-28: Non-weighted average
+BG: 2006
+RO: 2007
+HR: 2010","2010
+EU-28: Non-weighted average ","2012
+EU-28: Non-weighted average","2015
+EU-28: Non-weighted average","2017
+EU-28: Non-weighted average"
+Money,Economic situation,"Not-at-risk-of-poverty, ≥60% of median income (%, 16+ population)","Reversed indicator of ""at-risk-of poverty rate"", calculated as 100 minus ""at-risk-of-poverty rate"". The at-risk-of-poverty rate is the share of people with an equivalised disposable income (after social transfers) below the at-risk-of-poverty threshold, which is set at 60 % of the national median equivalised disposable income after social transfers.","Eurostat, EU SILC
+At-risk-of-poverty rate by poverty threshold, age and sex [ilc_li02]","2005
+EU-28: Non-weighted average
+BG: 2006
+RO: 2007
+HR: 2010",2010,2012,2015,2017
+Money,Economic situation,S20/S80 income quintile share (16+ population) ,"Calculated as 1/ ""S80/S20 income quintile share ratio"" * 100. The income quintile share ratio (also called the S80/S20 ratio) is a measure of the inequality of income distribution. It is calculated as the ratio of total income received by the 20 % of the population with the highest income (the top quintile) to that received by the 20 % of the population with the lowest income (the bottom quintile). For the Index, a ""reversed"" version of this indicator is used.","Eurostat, EU SILC
+Eurostat calculations according to EIGE's request","2005
+EU-28: Non-weighted average
+BG: 2006
+RO: 2007
+HR: 2010",2010,2012,"2015
+IE: 2014",2017
+Knowledge,Attainment and participation ,"Graduates of tertiary education (%, 15+ population)","Educational attainment measures the share of high-educated people among men and women. People with tertiary education as their highest level successfully completed (levels 5-8), percentage from total +15 population.","Eurostat, EU LFS 
+Eurostat calculations according to EIGE's request  (2005-2015). EIGE's calculations 2017","2005
+All MS (W, M): break in time series
+EU-28: Non-weighted average",2010,2012,2015,2017
+Knowledge,Attainment and participation ,"People participating in formal or non-formal education and training (%, 15+ population)","Percentage of people participating in formal or non-formal education and training, out of total population of 15+. Lifelong learning encompasses all purposeful learning activity, whether formal, non-formal or informal, undertaken on an ongoing basis with the aim of improving knowledge, skills and competence. The reference period for the participation in education and training is the four weeks preceding the interview.","Eurostat, EU LFS
+Eurostat calculations according to EIGE's request  (2005-2015). EIGE's calculations 2017","2005
+All MS (W, M): break in time series
+EU-28: Non-weighted average",2010,2012,2015,2017
+Knowledge,Segregation,"Tertiary students in the fields of Education, Health and Welfare, Humanities and Art (tertiary students) (%, 15+ population)","Percentage of persons who are studying in the following areas: EF14 (Teacher training and education science) + EF2 (Humanities and arts) + EF7 (Health and Welfare) out of total students. Until 2012 levels ISCED 5-6, after that ISCED 5-8.","Eurostat, Education statistics
+Tertiary students (ISCED 5-6) by field of education and sex (2005-2012) [educ_enrl5]
+(EF14 - Teacher training and education science EF2 - Humanities and arts EF7 - Health and Welfare)
+Students enrolled in tertiary education by education level, programme orientation, sex and field of education (2013-2017) [educ_uoe_enrt03]
+(F01 - Education F02 - Arts and humanities F09 - Health and welfare)","2005
+EU-28 calculated with original variables
+FR: 2006
+LU: 2011","2010
+EU-28 calculated with original variables
+LU: 2011","2012
+EU-28 calculated with original variables","2015
+EU-28 calculated with original variables
+EL and IE: 2014","2017 
+EU-28 calculated with original variables
+BG, CZ, IE, EL, FR, HR, IT, CY, HU, MT, PT, RO,  SK, FI, SE, UK. 2016. SI, 2016 for ED7 (Master or
+equivalent)"
+Time,Care activities,"People caring for and educating their children or grandchildren, elderly or people with disabilities, every day (%, 18+ population)","Percentage of people involved in at least one of these caring activities outside of paid work every day: care for children, grandchildren, elderly and disabled people.","Eurofound, EQLS
+EIGE's calculation with microdata","2003
+EU-28 calculated with original variables
+CZ, ES, HR, PL: 2007",2007,2012,2016,2016
+Time,Care activities,"People doing cooking and/or housework, every day (%, 18+ population)","Percentage of people involved in cooking and/or housework outside of paid work, every day.","Eurofound, EQLS
+EIGE's calculation with microdata","2003
+EU-28 calculated with original variables
+CZ, ES, HR, PL: 2007",2007,2012,2016,2016
+Time,Social activities,"Workers doing sporting, cultural or leisure activities outside of their home, at least daily or several times a week (%, 15+ workers)","Percentage of working people doing sporting, cultural or leisure activities at least every other day (daily+several times a month out of total).","Eurofound, EWCS
+EIGE's calculation with microdata",2015,2015,2015,2015,2015
+Time,Social activities,"Workers involved in voluntary or charitable activities, at least once a month (%, 15+ workers)","Percentage of working people involved in voluntary or charitable activities, at least once a month.","Eurofound, EWCS
+EIGE's calculation with microdata",2005,2010,2010,2015,2015
+Power,Political,"Share of ministers (% W, M)",Share of ministers. Ratio based on three year averages and ratio of each sex in the population (18+).  National governments (all ministers: junior ministers + senior ministers). Population statistics is based on Eurostat database.,"EIGE, Gender Statistics Database, WMID
+EIGE's calculation","2004-2005-2006
+HR: 2007",2009-2010-2011,2011-2012-2013,2014-2015-2016,2016-2017-2018
+Power,Political,"Share of members of parliament (% W, M)",Share of members of parliament. Ratio based on three years averages and ratio of each sex in the population (18+).  National parliaments (both houses). Population statistics are based on Eurostat database.,"EIGE, Gender Statistics Database, WMID
+EIGE's calculation","2004-2005-2006
+HR: 2007",2009-2010-2011,2011-2012-2013,2014-2015-2016,2016-2017-2018
+Power,Political,"Share of members of regional assemblies (% W, M)","Share of members of regional assemblies. Ratio based on three years averages and ratio of each sex in the population (18+). If regional assemblies do not exist in the country, local level politics are included. Population statistics are based on Eurostat database.","EIGE, Gender Statistics Database, WMID
+EIGE's calculation","Regional assembly 2009-2010-2011
+Local level politics 2011","Regional assembly 2009-2010-2011
+Local level politics 2011","Regional assembly 2011-2012-2013
+Local level politics 2013","Regional assembly 2014-2015-2016
+Local level politics 2015","Regional assembly 2016-2017-2018
+Local level politics 2017"
+Power,Economic,"Share of members of boards in largest quoted companies, supervisory board or board of directors (% W, M)",Share of members of boards in largest quoted companies. Ratio based on three years averages and ratio of each sex in the population (18+). Population statistics are based on Eurostat database.,"EIGE, Gender Statistics Database, WMID
+EIGE's calculation","2004-2005-2006
+HR: 2007",2009-2010-2011,2011-2012-2013,2014-2015-2016,2016-2017-2018
+Power,Economic,"Share of board members of central bank (% W, M)",Share of board members of central bank. Ratio based on three years averages and ratio of each sex in the population (18+). Population statistics are based on Eurostat database.,"EIGE, Gender Statistics Database, WMID
+EIGE's calculation","2004-2005-2006
+DE:2004, 2007
+HR: 2007",2009-2010-2011,2011-2012-2013,2014-2015-2016,2016-2017-2018
+Power,Social,"Share of board members of research funding organisations (% W, M)",Members of the highest decision-making bodies of research funding organisations. Ratio based on three years averages and ratio of each sex in the population (18+). Population statistics are based on Eurostat database.,"EIGE, Gender Statistics Database, WMID
+EIGE's calculation",2017,2017,2017,2017,"2017-2018
+IT: 2017"
+Power,Social,"Share of board members in publically owned broadcasting organisations (% W, M)",Share of board members in publically owned broadcasting organisations. Ratio based on three years averages and ratio of each sex in the population (18+). Population statistics are based on Eurostat database.,"EIGE, Gender Statistics Database, WMID
+EIGE's calculation",2014,2014,2014,2014-2015-2016,2016-2017-2018
+Power,Social,"Share of members of highest decision making body of the national Olympic sport organisations (% W, M)",Share of members of highest decision-making body of the 10 most popular national Olympic sport organisations. Ratio based on three years averages and ratio of each sex in the population (18+). Population statistics are based on Eurostat database.,"EIGE, Gender Statistics Database, WMID
+EIGE's calculation",2015,2015,2015,2015,2015-2018
+Health,Status,"Self-perceived health, good or very good (%, 16+ population)","Percentage of people assessing their health as ""Very good"" or ""Good"" out of total. The concept is operationalized by a question on how a person perceives his/her health in general using one of the answer categories very good/good/fair/bad/very bad.","Eurostat, EU SILC
+Self-perceived health by sex, age and labour status (%) [hlth_silc_01]","2005
+EU-28: Non-weighted average
+BG: 2006
+HR: 2010
+RO: 2007",2010,"2012
+HR: 2011 (M)",2015,2017
+Health,Status,Life expectancy in absolute value at birth (years),"Life expectancy at a certain age is the mean additional number of years that a person of that age can expect to live, if subjected throughout the rest of his or her life to the current mortality conditions (age-specific probabilities of dying, i.e. the death rates observed for the current period).","Eurostat, Mortality data
+Healthy Life Years (from 2004 onwards) [hlth_hlye], indicators F_0_LE - Life expectancy in absolute value at birth - females and M_0_LE - Life expectancy in absolute value at birth.","2005
+Total: average of women and men
+EU-28: Non-weighted average ","2010
+Total: average of women and men
+IT: 2009","2012
+Total: average of women and men
+SE: 2011","2015
+Total: average of women and men","2016
+Total: average of women and men"
+Health,Status,Healthy life years in absolute value at birth (years),"Healthy life years measures the number of remaining years that a person of specific age is expected to live without any severe or moderate health problems. HLY is a composite indicator that combines mortality data with health status data from health mini-module (EU-SILC): the self-perceived question, which aims to measure the extent of any limitations, for at least six months, because of a health problem that may have affected respondents as regards activities they usually do.","Eurostat, EU SILC and mortality data
+Healthy Life Years (from 2004 onwards) [hlth_hlye], indicators F_0_DFLE - Healthy life years in absolute value at birth - females and M_0_DFLE - Healthy life years in absolute value at birth - males ","2005
+Total: average of women and men
+EU-28: Non-weighted average
+BG: 2006
+HR: 2010
+RO: 2007","2010
+Total: average of women and men
+IT: 2009","2012
+Total: average of women and men
+SE: 2011","2015
+Total: average of women and men","2016
+Total: average of women and men"
+Health,Behaviour,"People who don’t smoke and are not involved in harmful drinking (%, 16+ population)","Percentage of people who are not involved in risk behaviour i.e. don’t smoke and are not involved in heavy episodic drinking. Heavy episodic drinking is Intake of 6 drinks or 60+ grams of pure alcohol on one occasion, monthly or more often, during the past 12 months. A drink is defined as a glass of wine, glass of beer, shot of whiskey etc. Everyone either smoking and/or is involved in harmful drinking is regarded to exercise risk behaviour.","Eurostat, EHIS
+Eurostat calculations according to EIGE's request","2014 
+EU-28: Non-weighted average
+FR, NL: EIGE estimation","2014 
+EU-28: Non-weighted average
+FR, NL: EIGE estimation","2014 
+EU-28: Non-weighted average
+FR, NL: EIGE estimation","2014 
+EU-28: Non-weighted average
+FR, NL: EIGE estimation","2014 
+EU-28: Non-weighted average
+FR, NL: EIGE estimation"
+Health,Behaviour,"People doing physical activities and/or consuming fruits and vegetables (%, 16+ population)","Percentage of people who are physically active at least 150 minutes per week and/or consume at least 5 portions of fruit and vegetables per day. Both reflect the official recommendation of the WHO. Eurostat provides info on the time spent on health-enhancing (non-work-related) aerobic physical activity (in minutes per week), including sports and cycling to get to and from places. Five portions (400 g) fruit and vegetables exclude juices from concentrates and potatoes (starches).","Eurostat, EHIS
+Eurostat calculations according to EIGE's request","2014
+EU-28: Non-weighted average
+BE, NL: EIGE estimation","2014
+EU-28: Non-weighted average
+BE, NL: EIGE estimation","2014
+EU-28: Non-weighted average
+BE, NL: EIGE estimation","2014
+EU-28: Non-weighted average
+BE, NL: EIGE estimation","2014
+EU-28: Non-weighted average
+BE, NL: EIGE estimation"
+Health,Access,"Population without unmet needs for medical examination (%, 16+ population)","Self-reported unmet needs for medical examination. The variables refer to the respondent's own assessment of whether he or she needed examination or treatment, but did not have it. Percentage of persons ""No unmet needs to declare"", Medical care: refers to individual health care services (medical examination or treatment excluding dental care) provided by or under direct supervision of medical doctors or equivalent professions according to national health care systems.","Eurostat, EU SILC
+Self-reported unmet needs for medical examination by sex, age, detailed reason and income quintile (%) [hlth_silc_08]","2005
+EU-28: Non-weighted average
+BG: 2006
+HR: 2010
+RO: 2007",2010,2012,2015,2017
+Health,Access,"People without unmet needs for dental examination (%, 16+ population)","Self-reported unmet needs for dental examination. The variables refer to the respondent's own assessment of whether he or she needed the examination or treatment, but did not have it. Percentage of persons ""No unmet needs to declare"". Dental care: refers to individual health care services provided by or under direct supervision of stomatologists (dentists). Health care provided by orthodontists is included.","Eurostat, EU SILC
+Self-reported unmet needs for dental examination by sex, age, detailed reason and income quintile (%) [hlth_silc_09]","2005
+EU-28: Non-weighted average
+BG: 2006
+HR: 2010
+RO: 2007",2010,2012,2015,2017
+Additional variable,,Population in age group 18 and older,Number of people in age 18 and older in country,"Eurostat, population statistics
+(1) Population on 1 January by broad age group and sex [demo_pjanbroad]
+(2) Population on 1 January by age and sex [demo_pjan]",2004-2005-2006,2009-2010-2011,2011-2012-2013,2014-2015-2016 ,2016-2017-2018 
