@@ -5,6 +5,7 @@
 
 #### [VIEW DATA STORY](./Final Article_Analyzing the 2016 WTA Tennis Season.ipynb)
 
+[DATA STORY](./Final Article_Analyzing the 2016 WTA Tennis Season.ipynb)
 
 
 
