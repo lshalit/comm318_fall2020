@@ -1,7 +1,7 @@
 ## Presentation of your data story for COMM318 _Stories from data_ Final Project
 
 
-#### [VIEW DATA STORY](mbod.github.io/comm318_fall2020/blob/master/example_projects/coreymberman/data_story_presentation/Final_Project_Presentation.html)
+#### [VIEW DATA STORY](https://mbod.github.io/comm318_fall2020/example_projects/coreymberman/data_story_presentation/Final_Project_Presentation.html)
 
 My data story is in the form of an advice column to prospective COMM majors. Life as a prospective COMM major can be difficult and confusing, and there are lots of conflicting pieces of information that a freshman or sophomore must keep in mind when making that kind of decision, and deciding how to plan their courseload each semester.
 
