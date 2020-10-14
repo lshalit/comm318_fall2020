@@ -3,7 +3,7 @@
 * This folder should contain the files that contain the output of all your data analysis. You can choose how you want to present your data story.
 
 
-#### ![VIEW DATA STORY](https://mbod.github.io/comm318_fall2020/example_projects/bdukas/data_story_presentation/data_story.html)
+#### [VIEW DATA STORY](https://mbod.github.io/comm318_fall2020/example_projects/bdukas/data_story_presentation/data_story.html)
 
 
 * Update this README file to describe the presentation.
