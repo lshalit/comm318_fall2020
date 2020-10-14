@@ -3,7 +3,8 @@
 * This folder should contain the files that contain the output of all your data analysis. You can choose how you want to present your data story.
 
 
-#### [VIEW DATA STORY](Final_Project.ipynb)
+* Update this README file to describe the presentation.
+
 
 * The `graphs` folder contains the images of the graphs that I will use in my presentation.
 
