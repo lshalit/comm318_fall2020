@@ -156,32 +156,33 @@ A central goal of this class is to help students begin to develop programming sk
 ### Week 8 - Data visualization (Part 1) - Supporting stories with plots
 * Mon  10/19/20 - Aggregating & summarizing. Creating simple plots. Thinking about good visualizations.
   * _Assignment 5 available in JupyterHub_
-* Wed 10/21/20 - Lab session
-* Fri 10/23/20 - __Assignment 5 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+* Wed 10/21/20 - Lab session - Setting
+* Sun 10/25/20 - __Assignment 5 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
-### Week 9 - Working with data tables (Part 2) - Summarizing and comparing data dimensions
-* Mon  10/26/20 - Working with filters and grouping
+### Week 9 - Working with data tables (Part 2) - Summarizing and comparing data dimensions + Exploratory visualization
+* Mon  10/26/20 - Lab Session - Reviewing data article & visualization
+* Wed 10/28/20 - Working with filters and grouping. Reshaping data and using Pandas plotting functions
+
+### Week 10 -  More data manipulation and visualization (Part 2) - Seeing trends and plot lines in data
+*  Mon  11/02/20 - Merging and joining data
   * _Assignment 6 available in JupyterHub_
-* Wed 10/28/20 - Lab Session
-* Fri 10/30/20 - __Assignment 6 DUE - 11.59pm EST__ (Submit through Jupyterhub)
-
-### Week 10 -  Data visualization (Part 2) - Seeing trends and plot lines in data
-*  Mon  11/02/20 -
-  * _Assignment 7 available in JupyterHub_
 *  Wed 11/04/20 - Lab session
-*  Fri 11/06/20 - __Assignment 7 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+*  Fri 11/06/20 - __Assignment 6 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 
 ### Week 11 - Finding data in the _wild_ using web scraping
 * Mon  11/09/20 - Web scraping concepts, HTML + CSS
-  * _Assignment 8 available in JupyterHub_
+  * Extracting tables from web pages
+  * _Assignment 7 available in JupyterHub_
 * Wed 11/11/20 - Lab session - using `requests` + `BeautifulSoup`
-* Fri 11/13/20 - __Assignment 8 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+* Fri 11/13/20 - __Assignment 7 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 
 ### Week 12 - Putting data on the map
 * Mon  11/16/20 - Working with geo data
+  * _Assignment 8 available in JupyterHub_
 * Wed 11/18/20 - Lab session
+* Fri 11/20/20 - __Assignment 8 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 
 ### Week 13 - Interactive visualizations
