@@ -1,0 +1,924 @@
+
+{"values": [
+         {
+            "id": "AAMW",
+            "name": "",
+            "path": "/depts/AAMW"
+         },
+         {
+            "id": "ACCT",
+            "name": "ACCOUNTING",
+            "path": "/depts/ACCT"
+         },
+         {
+            "id": "AFAM",
+            "name": "AFRO-AMERICAN STUDIES",
+            "path": "/depts/AFAM"
+         },
+         {
+            "id": "AFRC",
+            "name": "AFRICANA STUDIES",
+            "path": "/depts/AFRC"
+         },
+         {
+            "id": "AFST",
+            "name": "AFRICAN STUDIES PROGRAM",
+            "path": "/depts/AFST"
+         },
+         {
+            "id": "ALAN",
+            "name": "ASIAN LANGUAGES",
+            "path": "/depts/ALAN"
+         },
+         {
+            "id": "AMCS",
+            "name": "",
+            "path": "/depts/AMCS"
+         },
+         {
+            "id": "AMES",
+            "name": "ASIAN & MIDDLE EASTERN STUDIES",
+            "path": "/depts/AMES"
+         },
+         {
+            "id": "ANCH",
+            "name": "ANCIENT HISTORY",
+            "path": "/depts/ANCH"
+         },
+         {
+            "id": "ANCS",
+            "name": "",
+            "path": "/depts/ANCS"
+         },
+         {
+            "id": "ANEL",
+            "name": "ANCIENT NEAR EAST LANGUAGES",
+            "path": "/depts/ANEL"
+         },
+         {
+            "id": "ANTH",
+            "name": "ANTHROPOLOGY",
+            "path": "/depts/ANTH"
+         },
+         {
+            "id": "ARAB",
+            "name": "ARABIC",
+            "path": "/depts/ARAB"
+         },
+         {
+            "id": "ARCH",
+            "name": "ARCHITECTURE",
+            "path": "/depts/ARCH"
+         },
+         {
+            "id": "ARTH",
+            "name": "ART HISTORY",
+            "path": "/depts/ARTH"
+         },
+         {
+            "id": "ASAM",
+            "name": "ASIAN AMERICAN STUDIES",
+            "path": "/depts/ASAM"
+         },
+         {
+            "id": "ASTR",
+            "name": "ASTRONOMY",
+            "path": "/depts/ASTR"
+         },
+         {
+            "id": "BCHE",
+            "name": "BIOCHEMISTRY (UNDERGRADS)",
+            "path": "/depts/BCHE"
+         },
+         {
+            "id": "BDS",
+            "name": "BEHAVIORAL & DECISION SCIENCES",
+            "path": "/depts/BDS"
+         },
+         {
+            "id": "BE",
+            "name": "BIOENGINEERING",
+            "path": "/depts/BE"
+         },
+         {
+            "id": "BENF",
+            "name": "BENJAMIN FRANKLIN SEMINARS",
+            "path": "/depts/BENF"
+         },
+         {
+            "id": "BENG",
+            "name": "BENGALI",
+            "path": "/depts/BENG"
+         },
+         {
+            "id": "BEPP",
+            "name": "BUSINESS ECON & PUBLIC POLICY",
+            "path": "/depts/BEPP"
+         },
+         {
+            "id": "BFLW",
+            "name": "BENJAMIN FRANKLIN SEMINARS-LAW",
+            "path": "/depts/BFLW"
+         },
+         {
+            "id": "BFMD",
+            "name": "BENJAMIN FRANKLIN SEMINARS-MED",
+            "path": "/depts/BFMD"
+         },
+         {
+            "id": "BIBB",
+            "name": "BIOLOGICAL BASIS OF BEHAVIOR",
+            "path": "/depts/BIBB"
+         },
+         {
+            "id": "BIOE",
+            "name": "",
+            "path": "/depts/BIOE"
+         },
+         {
+            "id": "BIOH",
+            "name": "BIOETHICS",
+            "path": "/depts/BIOH"
+         },
+         {
+            "id": "BIOL",
+            "name": "BIOLOGY",
+            "path": "/depts/BIOL"
+         },
+         {
+            "id": "BIOT",
+            "name": "BIOTECHNOLOGY",
+            "path": "/depts/BIOT"
+         },
+         {
+            "id": "BMB",
+            "name": "",
+            "path": "/depts/BMB"
+         },
+         {
+            "id": "BPUB",
+            "name": "BUSINESS & PUBLIC POLICY",
+            "path": "/depts/BPUB"
+         },
+         {
+            "id": "BRYN",
+            "name": "BRYN MAWR EXCHANGE",
+            "path": "/depts/BRYN"
+         },
+         {
+            "id": "BSTA",
+            "name": "",
+            "path": "/depts/BSTA"
+         },
+         {
+            "id": "CAMB",
+            "name": "",
+            "path": "/depts/CAMB"
+         },
+         {
+            "id": "CBE",
+            "name": "CHEMICAL & BIOMOLECULAR ENGR",
+            "path": "/depts/CBE"
+         },
+         {
+            "id": "CHE",
+            "name": "CHEMICAL & BIOMOLECULAR ENGR",
+            "path": "/depts/CHE"
+         },
+         {
+            "id": "CHEM",
+            "name": "CHEMISTRY",
+            "path": "/depts/CHEM"
+         },
+         {
+            "id": "CHIN",
+            "name": "CHINESE",
+            "path": "/depts/CHIN"
+         },
+         {
+            "id": "CIMS",
+            "name": "CINEMA AND MEDIA STUDIES",
+            "path": "/depts/CIMS"
+         },
+         {
+            "id": "CINE",
+            "name": "CINEMA STUDIES",
+            "path": "/depts/CINE"
+         },
+         {
+            "id": "CIS",
+            "name": "COMPUTER AND INFORMATION SCI",
+            "path": "/depts/CIS"
+         },
+         {
+            "id": "CIT",
+            "name": "COMPUTER AND INFORMATION TECH",
+            "path": "/depts/CIT"
+         },
+         {
+            "id": "CLST",
+            "name": "CLASSICAL STUDIES",
+            "path": "/depts/CLST"
+         },
+         {
+            "id": "COGS",
+            "name": "COGNITIVE SCIENCE",
+            "path": "/depts/COGS"
+         },
+         {
+            "id": "COLL",
+            "name": "COLLEGE",
+            "path": "/depts/COLL"
+         },
+         {
+            "id": "COML",
+            "name": "COMPARATIVE LITERATURE",
+            "path": "/depts/COML"
+         },
+         {
+            "id": "COMM",
+            "name": "COMMUNICATIONS",
+            "path": "/depts/COMM"
+         },
+         {
+            "id": "CPLN",
+            "name": "CITY PLANNING",
+            "path": "/depts/CPLN"
+         },
+         {
+            "id": "CRIM",
+            "name": "CRIMINOLOGY",
+            "path": "/depts/CRIM"
+         },
+         {
+            "id": "CSE",
+            "name": "COMPUTER SCIENCE ENGINEERING",
+            "path": "/depts/CSE"
+         },
+         {
+            "id": "DEMG",
+            "name": "DEMOGRAPHY",
+            "path": "/depts/DEMG"
+         },
+         {
+            "id": "DTCH",
+            "name": "DUTCH",
+            "path": "/depts/DTCH"
+         },
+         {
+            "id": "DYNM",
+            "name": "ORGANIZATIONAL DYNAMICS",
+            "path": "/depts/DYNM"
+         },
+         {
+            "id": "EALC",
+            "name": "EAST ASIAN LANGUAGES & CIVILZTN",
+            "path": "/depts/EALC"
+         },
+         {
+            "id": "EAS",
+            "name": "ENGINEERING & APPLIED SCIENCE",
+            "path": "/depts/EAS"
+         },
+         {
+            "id": "ECON",
+            "name": "ECONOMICS",
+            "path": "/depts/ECON"
+         },
+         {
+            "id": "EDUC",
+            "name": "",
+            "path": "/depts/EDUC"
+         },
+         {
+            "id": "EE",
+            "name": "ELECTRICAL ENGINEERING",
+            "path": "/depts/EE"
+         },
+         {
+            "id": "EEUR",
+            "name": "EAST EUROPEAN",
+            "path": "/depts/EEUR"
+         },
+         {
+            "id": "ENGL",
+            "name": "ENGLISH",
+            "path": "/depts/ENGL"
+         },
+         {
+            "id": "ENGR",
+            "name": "ENGINEERING",
+            "path": "/depts/ENGR"
+         },
+         {
+            "id": "ENM",
+            "name": "ENGINEERING MATHEMATICS",
+            "path": "/depts/ENM"
+         },
+         {
+            "id": "ENVS",
+            "name": "ENVIRONMENTAL STUDIES",
+            "path": "/depts/ENVS"
+         },
+         {
+            "id": "EPID",
+            "name": "",
+            "path": "/depts/EPID"
+         },
+         {
+            "id": "ESE",
+            "name": "ELECTRIC & SYSTEMS ENGINEERING",
+            "path": "/depts/ESE"
+         },
+         {
+            "id": "FILM",
+            "name": "CINEMA STUDIES",
+            "path": "/depts/FILM"
+         },
+         {
+            "id": "FNAR",
+            "name": "FINE ARTS",
+            "path": "/depts/FNAR"
+         },
+         {
+            "id": "FNCE",
+            "name": "FINANCE",
+            "path": "/depts/FNCE"
+         },
+         {
+            "id": "FOLK",
+            "name": "FOLKLORE",
+            "path": "/depts/FOLK"
+         },
+         {
+            "id": "FREN",
+            "name": "FRENCH",
+            "path": "/depts/FREN"
+         },
+         {
+            "id": "FRSM",
+            "name": "NON-SAS FRESHMAN SEMINAR",
+            "path": "/depts/FRSM"
+         },
+         {
+            "id": "GAFL",
+            "name": "GOVERNMENT ADMINISTRATION",
+            "path": "/depts/GAFL"
+         },
+         {
+            "id": "GCB",
+            "name": "",
+            "path": "/depts/GCB"
+         },
+         {
+            "id": "GENH",
+            "name": "GENERAL HONORS",
+            "path": "/depts/GENH"
+         },
+         {
+            "id": "GEOL",
+            "name": "GEOLOGY",
+            "path": "/depts/GEOL"
+         },
+         {
+            "id": "GLAW",
+            "name": "GENERAL HONORS-LAW",
+            "path": "/depts/GLAW"
+         },
+         {
+            "id": "GMED",
+            "name": "GENERAL HONORS-MEDICINE",
+            "path": "/depts/GMED"
+         },
+         {
+            "id": "GREK",
+            "name": "GREEK",
+            "path": "/depts/GREK"
+         },
+         {
+            "id": "GRMN",
+            "name": "GERMANIC LANGUAGES",
+            "path": "/depts/GRMN"
+         },
+         {
+            "id": "GSOC",
+            "name": "GENDER, CULTURE & SOCIETY",
+            "path": "/depts/GSOC"
+         },
+         {
+            "id": "GSWS",
+            "name": "GENDER,SEXUALITY & WOMEN'S STUD",
+            "path": "/depts/GSWS"
+         },
+         {
+            "id": "GUJR",
+            "name": "GUJARATI",
+            "path": "/depts/GUJR"
+         },
+         {
+            "id": "HCMG",
+            "name": "HEALTH CARE MANAGEMENT",
+            "path": "/depts/HCMG"
+         },
+         {
+            "id": "HEBR",
+            "name": "HEBREW",
+            "path": "/depts/HEBR"
+         },
+         {
+            "id": "HIND",
+            "name": "HINDI",
+            "path": "/depts/HIND"
+         },
+         {
+            "id": "HIST",
+            "name": "HISTORY",
+            "path": "/depts/HIST"
+         },
+         {
+            "id": "HPR",
+            "name": "",
+            "path": "/depts/HPR"
+         },
+         {
+            "id": "HSOC",
+            "name": "HEALTH & SOCIETIES",
+            "path": "/depts/HSOC"
+         },
+         {
+            "id": "HSPV",
+            "name": "",
+            "path": "/depts/HSPV"
+         },
+         {
+            "id": "HSSC",
+            "name": "HISTORY & SOCIOLOGY OF SCIENCE",
+            "path": "/depts/HSSC"
+         },
+         {
+            "id": "IMUN",
+            "name": "",
+            "path": "/depts/IMUN"
+         },
+         {
+            "id": "INSC",
+            "name": "",
+            "path": "/depts/INSC"
+         },
+         {
+            "id": "INSR",
+            "name": "INSURANCE AND RISK MANAGEMENT",
+            "path": "/depts/INSR"
+         },
+         {
+            "id": "INTG",
+            "name": "INTEGRATED STUDIES",
+            "path": "/depts/INTG"
+         },
+         {
+            "id": "INTR",
+            "name": "INTERNATIONAL RELATIONS",
+            "path": "/depts/INTR"
+         },
+         {
+            "id": "INTS",
+            "name": "INTERNATIONAL STUDIES",
+            "path": "/depts/INTS"
+         },
+         {
+            "id": "IPD",
+            "name": "INTEGRATED PRODUCT DESIGN",
+            "path": "/depts/IPD"
+         },
+         {
+            "id": "ITAL",
+            "name": "ITALIAN",
+            "path": "/depts/ITAL"
+         },
+         {
+            "id": "JPAN",
+            "name": "JAPANESE",
+            "path": "/depts/JPAN"
+         },
+         {
+            "id": "JWST",
+            "name": "JEWISH STUDIES PROGRAM",
+            "path": "/depts/JWST"
+         },
+         {
+            "id": "KORN",
+            "name": "KOREAN",
+            "path": "/depts/KORN"
+         },
+         {
+            "id": "LALS",
+            "name": "LATIN AMERICAN & LATINO STUDIES",
+            "path": "/depts/LALS"
+         },
+         {
+            "id": "LARP",
+            "name": "LANDSCAPE ARCH & REGIONAL PLAN",
+            "path": "/depts/LARP"
+         },
+         {
+            "id": "LATN",
+            "name": "LATIN",
+            "path": "/depts/LATN"
+         },
+         {
+            "id": "LAW",
+            "name": "",
+            "path": "/depts/LAW"
+         },
+         {
+            "id": "LGIC",
+            "name": "",
+            "path": "/depts/LGIC"
+         },
+         {
+            "id": "LGST",
+            "name": "LEGAL STUDIES & BUSINESS ETHICS",
+            "path": "/depts/LGST"
+         },
+         {
+            "id": "LING",
+            "name": "LINGUISTICS",
+            "path": "/depts/LING"
+         },
+         {
+            "id": "LSMP",
+            "name": "LIFE SCIENCES MANAGEMENT PROG",
+            "path": "/depts/LSMP"
+         },
+         {
+            "id": "LTAM",
+            "name": "",
+            "path": "/depts/LTAM"
+         },
+         {
+            "id": "MATH",
+            "name": "MATHEMATICS",
+            "path": "/depts/MATH"
+         },
+         {
+            "id": "MCS",
+            "name": "MASTER OF CHEMICAL SCIENCES",
+            "path": "/depts/MCS"
+         },
+         {
+            "id": "MEAM",
+            "name": "MECH ENGR AND APPLIED MECH",
+            "path": "/depts/MEAM"
+         },
+         {
+            "id": "MED",
+            "name": "",
+            "path": "/depts/MED"
+         },
+         {
+            "id": "MGEC",
+            "name": "MANAGEMENT OF ECONOMICS",
+            "path": "/depts/MGEC"
+         },
+         {
+            "id": "MGMT",
+            "name": "MANAGEMENT",
+            "path": "/depts/MGMT"
+         },
+         {
+            "id": "MKSE",
+            "name": "MARKETING & SOCIAL SYSTEMS",
+            "path": "/depts/MKSE"
+         },
+         {
+            "id": "MKTG",
+            "name": "MARKETING",
+            "path": "/depts/MKTG"
+         },
+         {
+            "id": "MLA",
+            "name": "MASTER OF LIBERAL ARTS PROGRAM",
+            "path": "/depts/MLA"
+         },
+         {
+            "id": "MLYM",
+            "name": "MALAYALAM",
+            "path": "/depts/MLYM"
+         },
+         {
+            "id": "MMES",
+            "name": "MODERN MIDDLE EASTERN STUDIES",
+            "path": "/depts/MMES"
+         },
+         {
+            "id": "MMP",
+            "name": "MASTER OF MEDICAL PHYSICS",
+            "path": "/depts/MMP"
+         },
+         {
+            "id": "MSE",
+            "name": "MATERIALS SCIENCE AND ENGINEER",
+            "path": "/depts/MSE"
+         },
+         {
+            "id": "MSSP",
+            "name": "",
+            "path": "/depts/MSSP"
+         },
+         {
+            "id": "MUSA",
+            "name": "",
+            "path": "/depts/MUSA"
+         },
+         {
+            "id": "MUSC",
+            "name": "MUSIC",
+            "path": "/depts/MUSC"
+         },
+         {
+            "id": "NANO",
+            "name": "NANOTECHNOLOGY",
+            "path": "/depts/NANO"
+         },
+         {
+            "id": "NELC",
+            "name": "NEAR EASTERN LANGUAGES & CIVLZT",
+            "path": "/depts/NELC"
+         },
+         {
+            "id": "NETS",
+            "name": "NETWORKED AND SOCIAL SYSTEMS",
+            "path": "/depts/NETS"
+         },
+         {
+            "id": "NGG",
+            "name": "",
+            "path": "/depts/NGG"
+         },
+         {
+            "id": "NPLD",
+            "name": "",
+            "path": "/depts/NPLD"
+         },
+         {
+            "id": "NURS",
+            "name": "NURSING",
+            "path": "/depts/NURS"
+         },
+         {
+            "id": "OIDD",
+            "name": "OPERATIONS INFO DECISIONS",
+            "path": "/depts/OIDD"
+         },
+         {
+            "id": "OPIM",
+            "name": "OPERATIONS AND INFORMATION MGMT",
+            "path": "/depts/OPIM"
+         },
+         {
+            "id": "PERS",
+            "name": "PERSIAN",
+            "path": "/depts/PERS"
+         },
+         {
+            "id": "PHIL",
+            "name": "PHILOSOPHY",
+            "path": "/depts/PHIL"
+         },
+         {
+            "id": "PHRM",
+            "name": "",
+            "path": "/depts/PHRM"
+         },
+         {
+            "id": "PHYS",
+            "name": "PHYSICS",
+            "path": "/depts/PHYS"
+         },
+         {
+            "id": "PPE",
+            "name": "PHILOSOPHY, POLITICS, ECONOMICS",
+            "path": "/depts/PPE"
+         },
+         {
+            "id": "PRTG",
+            "name": "PORTUGUESE",
+            "path": "/depts/PRTG"
+         },
+         {
+            "id": "PSCI",
+            "name": "POLITICAL SCIENCE",
+            "path": "/depts/PSCI"
+         },
+         {
+            "id": "PSHS",
+            "name": "PENN SUMMER HIGH SCHOOL",
+            "path": "/depts/PSHS"
+         },
+         {
+            "id": "PSPR",
+            "name": "PENN SUMMER PREP PROGRAM",
+            "path": "/depts/PSPR"
+         },
+         {
+            "id": "PSSA",
+            "name": "SUMMER SCIENCE ACADEMY",
+            "path": "/depts/PSSA"
+         },
+         {
+            "id": "PSYC",
+            "name": "PSYCHOLOGY",
+            "path": "/depts/PSYC"
+         },
+         {
+            "id": "PSYS",
+            "name": "",
+            "path": "/depts/PSYS"
+         },
+         {
+            "id": "PUBH",
+            "name": "",
+            "path": "/depts/PUBH"
+         },
+         {
+            "id": "PUNJ",
+            "name": "PUNJABI",
+            "path": "/depts/PUNJ"
+         },
+         {
+            "id": "QUEC",
+            "name": "QUECHUA",
+            "path": "/depts/QUEC"
+         },
+         {
+            "id": "REAL",
+            "name": "REAL ESTATE",
+            "path": "/depts/REAL"
+         },
+         {
+            "id": "RELS",
+            "name": "RELIGIOUS STUDIES",
+            "path": "/depts/RELS"
+         },
+         {
+            "id": "ROBO",
+            "name": "ROBOTICS",
+            "path": "/depts/ROBO"
+         },
+         {
+            "id": "ROML",
+            "name": "ROMANCE LANGUAGES",
+            "path": "/depts/ROML"
+         },
+         {
+            "id": "RUSS",
+            "name": "RUSSIAN",
+            "path": "/depts/RUSS"
+         },
+         {
+            "id": "SARS",
+            "name": "SOUTH ASIA REGIONAL STUDIES",
+            "path": "/depts/SARS"
+         },
+         {
+            "id": "SAST",
+            "name": "SOUTH ASIA STUDIES",
+            "path": "/depts/SAST"
+         },
+         {
+            "id": "SCMP",
+            "name": "",
+            "path": "/depts/SCMP"
+         },
+         {
+            "id": "SCND",
+            "name": "SCANDINAVIAN",
+            "path": "/depts/SCND"
+         },
+         {
+            "id": "SKRT",
+            "name": "SANSKRIT",
+            "path": "/depts/SKRT"
+         },
+         {
+            "id": "SLAV",
+            "name": "SLAVIC",
+            "path": "/depts/SLAV"
+         },
+         {
+            "id": "SOCI",
+            "name": "SOCIOLOGY",
+            "path": "/depts/SOCI"
+         },
+         {
+            "id": "SPAN",
+            "name": "SPANISH",
+            "path": "/depts/SPAN"
+         },
+         {
+            "id": "STAT",
+            "name": "STATISTICS",
+            "path": "/depts/STAT"
+         },
+         {
+            "id": "STSC",
+            "name": "SCIENCE, TECHNOLOGY & SOCIETY",
+            "path": "/depts/STSC"
+         },
+         {
+            "id": "SWRK",
+            "name": "",
+            "path": "/depts/SWRK"
+         },
+         {
+            "id": "SYS",
+            "name": "SYSTEMS ENGINEERING",
+            "path": "/depts/SYS"
+         },
+         {
+            "id": "TAML",
+            "name": "TAMIL",
+            "path": "/depts/TAML"
+         },
+         {
+            "id": "TCOM",
+            "name": "TELECOMMUNICATIONS & NETWORKING",
+            "path": "/depts/TCOM"
+         },
+         {
+            "id": "TELU",
+            "name": "TELUGU",
+            "path": "/depts/TELU"
+         },
+         {
+            "id": "THAR",
+            "name": "THEATRE ARTS",
+            "path": "/depts/THAR"
+         },
+         {
+            "id": "TRAN",
+            "name": "",
+            "path": "/depts/TRAN"
+         },
+         {
+            "id": "TURK",
+            "name": "TURKISH",
+            "path": "/depts/TURK"
+         },
+         {
+            "id": "URBS",
+            "name": "URBAN STUDIES",
+            "path": "/depts/URBS"
+         },
+         {
+            "id": "URDU",
+            "name": "URDU",
+            "path": "/depts/URDU"
+         },
+         {
+            "id": "VCSN",
+            "name": "",
+            "path": "/depts/VCSN"
+         },
+         {
+            "id": "VIPR",
+            "name": "VIPER",
+            "path": "/depts/VIPR"
+         },
+         {
+            "id": "VLST",
+            "name": "VISUAL STUDIES",
+            "path": "/depts/VLST"
+         },
+         {
+            "id": "WH",
+            "name": "WHARTON UNDERGRADUATE",
+            "path": "/depts/WH"
+         },
+         {
+            "id": "WHCP",
+            "name": "WHARTON COMMUNICATION PGM",
+            "path": "/depts/WHCP"
+         },
+         {
+            "id": "WHMP",
+            "name": "WHARTON MANAGEMENT PROGRAM",
+            "path": "/depts/WHMP"
+         },
+         {
+            "id": "WRIT",
+            "name": "WRITING PROGRAM",
+            "path": "/depts/WRIT"
+         },
+         {
+            "id": "WSTD",
+            "name": "WOMEN'S STUDIES",
+            "path": "/depts/WSTD"
+         },
+         {
+            "id": "YDSH",
+            "name": "YIDDISH",
+            "path": "/depts/YDSH"
+         }
+      ]
+   }

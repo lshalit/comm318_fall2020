@@ -1,0 +1,30 @@
+﻿Country Short,Country Long,Communist,USSR,Eurozone,Schengen Area,Religion,Region
+AT,Austria,No,No,Yes,Yes,Catholic,Central
+BE,Belgium,No,No,Yes,Yes,Catholic,Western
+BG,Bulgaria,Yes,No,No,No,Orthodox,Southeastern
+HR,Croatia,Yes,No,No,No,Catholic,Central
+CY,Cyprus,No,No,Yes,No,Orthodox,Southeastern
+CZ,Czech Republic,Yes,No,No,Yes,Catholic,Central
+DK,Denmark,No,No,No,Yes,Protestant,Northern
+EE,Estonia,Yes,Yes,Yes,Yes,Protestant,Central
+EU-28,European Union,N/A,N/A,N/A,N/A,N/A,N/A
+FI,Finland,No,No,Yes,Yes,Protestant,Northern
+FR,France,No,No,Yes,Yes,Catholic,Western
+DE,Germany,Split,No,Yes,Yes,Split Catholic and Protestant,Central
+EL,Greece,No,No,Yes,Yes,Orthodox,Southeastern
+HU,Hungary,Yes,No,No,Yes,Catholic,Central
+IE,Ireland,No,No,Yes,No,Catholic,Western
+IT,Italy,No,No,Yes,Yes,Catholic,Southern
+LV,Latvia,Yes,Yes,Yes,Yes,Split Catholic and Protestant,Central
+LT,Lithuania,Yes,Yes,Yes,Yes,Catholic,Central
+LU,Luxembourg,No,No,Yes,Yes,Catholic,Central
+MT,Malta,No,No,Yes,Yes,Catholic,Southern
+NL,Netherlands,No,No,Yes,Yes,Split Catholic and Protestant,Western
+PL,Poland,Yes,No,No,Yes,Catholic,Central
+PT,Portugal,No,No,Yes,Yes,Catholic,Southern
+RO,Romania,Yes,No,No,No,Orthodox,Southeastern
+SK,Slovakia,Yes,No,Yes,Yes,Catholic,Central
+SI,Slovenia,Yes,No,Yes,Yes,Catholic,Central
+ES,Spain,No,No,Yes,Yes,Catholic,Southern
+SE,Sweden,No,No,No,Yes,Protestant,Northern
+UK,United Kingdom,No,No,No,No,Protestant,Western

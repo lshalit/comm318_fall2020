@@ -1,0 +1,7 @@
+## Data analysis notebooks for COMM318 _Stories from data_ Final Project
+
+* Exploring the Data: This notebook include the initial data exploration and analysis of the dataset, examined the shape, unit of analysis, initial questions that eventually led into my larger question of tracking the Olympics over time. 
+
+* Comparison: This notebook creates two datasets containing only 1896 and 2016 data respectively. I performed a series of analysis and aggregations in order to compare the difference between the first Olympics and the most recent. I used functions such as count and nunique to find the number of athletes and the number of countries that participated. Used this comparison to find ideas about what trends to look at over time. 
+
+* Trend: This notebook does a series of aggregations and merges to look at Olympics trends overtime. Specifically I looked at country participation, participation break down by gender, overall medal count, top medal count by country, and medal count compared to team size. I started by aggregating the data based on the variable I was interested in, I then performed necessary merges and other analyses to be able to produce findings about the trends. This notebook also includes the code for the visualizations that reflect the findings of the analysis. 
