@@ -173,28 +173,27 @@ A central goal of this class is to help students begin to develop programming sk
 ### Week 11 - Finding data in the _wild_ using web scraping
 * Mon  11/09/20 - Web scraping concepts, HTML + CSS
   * Extracting tables from web pages
-  * _Assignment 7 available in JupyterHub_
 * Wed 11/11/20 - Lab session - using `requests` + `BeautifulSoup`
-* Fri 11/13/20 - __Assignment 7 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 
 ### Week 12 - Putting data on the map
 * Mon  11/16/20 - Working with geo data
-  * _Assignment 8 available in JupyterHub_
 * Wed 11/18/20 - Lab session
-* Fri 11/20/20 - __Assignment 8 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 
 ### Week 13 - Interactive visualizations
 * Mon  11/23/20 - Adding movement to your data stories
-* Wed 11/25/20 - Lab session
+* Wed 11/25/20 - NO CLASS (Thanksgiving Holiday)
 
 
 ### Week 14 - Review & Working on projects (1)
 * Mon  11/30/20 - Lab session
 * Wed 12/02/20 - Lab session
-
+* Fri 12/04/20 - __Assignment 7 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 ### Week 15 - Review & Working on projects (2)
 * Mon  12/07/20 - Lab session
 * Wed 12/09/20 - Lab session
+
+
+### FINAL PROJECT DUE 11.59pm 12/20/20
